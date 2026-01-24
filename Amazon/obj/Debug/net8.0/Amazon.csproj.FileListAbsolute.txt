@@ -1,0 +1,15 @@
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\bin\Debug\net8.0\Amazon.exe
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\bin\Debug\net8.0\Amazon.deps.json
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\bin\Debug\net8.0\Amazon.runtimeconfig.json
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\bin\Debug\net8.0\Amazon.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\bin\Debug\net8.0\Amazon.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfoInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfo.cs
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.csproj.CoreCompileInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.sourcelink.json
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\refint\Amazon.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\Amazon.genruntimeconfig.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-02\Amazon\Amazon\obj\Debug\net8.0\ref\Amazon.dll
