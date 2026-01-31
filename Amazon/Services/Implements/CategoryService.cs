@@ -1,4 +1,5 @@
-﻿using Amazon.Models;
+﻿using Amazon.Exceptions.NotFoundExceptions;
+using Amazon.Models;
 using Amazon.Services.Interfaces;
 
 namespace Amazon.Services.Implements
@@ -22,12 +23,9 @@ namespace Amazon.Services.Implements
         public void Delete(int id)
         {
             var category = _categories.FirstOrDefault(c => c.Id == id);
-            if (category == null) Console.WriteLine("Category was not found!");
-            else
-            {
-                _categories.Remove(category);
-                Console.WriteLine("Category was removed successfully!");
-            }
+            if (category == null) throw new CategoryNotFoundException();
+            _categories.Remove(category);
+            Console.WriteLine("Category was removed successfully!");
         }
 
         public void GetAll()
@@ -41,11 +39,9 @@ namespace Amazon.Services.Implements
         public void GetById(int id)
         {
             var category = _categories.FirstOrDefault(c => c.Id == id);
-            if (category == null) Console.WriteLine("Category was not found!");
-            else
-            {
-                Console.WriteLine($"Id:{category.Id} - Category:{category.Name} - DepartmentId:{category.DepartmentId}");
-            }
+            if (category == null) throw new CategoryNotFoundException();
+            Console.WriteLine($"Id:{category.Id} - Category:{category.Name} - DepartmentId:{category.DepartmentId}");
         }
     }
 }
+//extend - genislendirmek

@@ -1,4 +1,5 @@
-﻿using Amazon.Models;
+﻿using Amazon.Exceptions.NotFoundExceptions;
+using Amazon.Models;
 using Amazon.Services.Interfaces;
 
 namespace Amazon.Services.Implements
@@ -19,13 +20,10 @@ namespace Amazon.Services.Implements
         public void Delete(int id)
         {
             var department = _departments.FirstOrDefault(d => d.Id == id);
-            if (department == null) Console.WriteLine("Department was not found!");
-            else
-            {
-                _departments.Remove(department);
+            if (department == null) throw new DepartmentNotFoundException();
+            _departments.Remove(department);
 
-                Console.WriteLine($"{id} department was removed");
-            }
+            Console.WriteLine($"{id} department was removed");
         }
 
         public void GetAll()
@@ -39,8 +37,8 @@ namespace Amazon.Services.Implements
         public void GetById(int id)
         {
             var department = _departments.FirstOrDefault(d => d.Id == id);
-            if (department == null) Console.WriteLine("Department was not found!");
-            else Console.WriteLine($"Id: {department.Id} - Department: {department.Name}");
+            if (department == null) throw new DepartmentNotFoundException();
+            Console.WriteLine($"Id: {department.Id} - Department: {department.Name}");
         }
     }
 }
