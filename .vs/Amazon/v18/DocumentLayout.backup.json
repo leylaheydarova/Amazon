@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +23,16 @@
       "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\dtos\\department\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\dtos\\department\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|solutionrelative:amazon\\services\\implements\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B5AF780-82EE-4850-B5FB-5AE0E635BD22}|Amazon\\Amazon.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-02\\amazon\\amazon\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,37 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryCreateDto.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
-              "RelativeDocumentMoniker": "Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
-              "RelativeToolTip": "Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:02:05.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\DepartmentService.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\DepartmentService.cs",
-              "RelativeToolTip": "Amazon\\Services\\Implements\\DepartmentService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T13:58:39.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\CategoryService.cs",
               "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\CategoryService.cs",
@@ -137,20 +111,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Program.cs",
-              "RelativeDocumentMoniker": "Amazon\\Program.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Program.cs*",
-              "RelativeToolTip": "Amazon\\Program.cs*",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAYwNsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\DepartmentService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\DepartmentService.cs",
+              "RelativeToolTip": "Amazon\\Services\\Implements\\DepartmentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T12:48:45.431Z",
+              "WhenOpened": "2026-01-24T13:58:39.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
+              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\ProductService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
+              "RelativeToolTip": "Amazon\\Services\\Implements\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:13:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IGenericService.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Interfaces\\IGenericService.cs",
               "RelativeDocumentMoniker": "Amazon\\Services\\Interfaces\\IGenericService.cs",
@@ -163,33 +150,20 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Program.cs",
+              "RelativeDocumentMoniker": "Amazon\\Program.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Program.cs",
+              "RelativeToolTip": "Amazon\\Program.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAYwKEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:48:45.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DepartmentCreateDto.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
-              "RelativeDocumentMoniker": "Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
-              "RelativeToolTip": "Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:01:00.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
-              "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\ProductService.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\ProductService.cs",
-              "RelativeToolTip": "Amazon\\Services\\Implements\\ProductService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:13:21.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Services\\Implements\\CustomerService.cs",
               "RelativeDocumentMoniker": "Amazon\\Services\\Implements\\CustomerService.cs",
@@ -198,6 +172,32 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T11:38:24.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:02:05.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:01:00.591Z",
               "EditorCaption": ""
             },
             {

@@ -106,8 +106,7 @@
               "RelativeToolTip": "Amazon\\Services\\Implements\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T14:30:13.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T14:30:13.693Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "Amazon\\Services\\Implements\\DepartmentService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T13:58:39.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T13:58:39.105Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "Amazon\\Services\\Implements\\ProductService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:13:21.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T15:13:21.833Z"
             },
             {
               "$type": "Document",
@@ -145,8 +142,7 @@
               "RelativeToolTip": "Amazon\\Services\\Interfaces\\IGenericService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T11:58:05.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T11:58:05.079Z"
             },
             {
               "$type": "Document",
@@ -156,7 +152,7 @@
               "RelativeDocumentMoniker": "Amazon\\Program.cs",
               "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-02\\Amazon\\Amazon\\Program.cs",
               "RelativeToolTip": "Amazon\\Program.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAYwKEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T12:48:45.431Z",
               "EditorCaption": ""
@@ -171,8 +167,7 @@
               "RelativeToolTip": "Amazon\\Services\\Implements\\CustomerService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T11:38:24.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T11:38:24.546Z"
             },
             {
               "$type": "Document",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "Amazon\\DTOs\\Category\\CategoryCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:02:05.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:02:05.78Z"
             },
             {
               "$type": "Document",
@@ -197,8 +191,7 @@
               "RelativeToolTip": "Amazon\\DTOs\\Department\\DepartmentCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:01:00.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:01:00.591Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "Amazon\\DTOs\\Product\\ProductCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:17:39.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T15:17:39.706Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "Amazon\\DTOs\\Customer\\CustomerCreateDto.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T11:37:23.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T11:37:23.593Z"
             },
             {
               "$type": "Document",
@@ -236,8 +227,7 @@
               "RelativeToolTip": "Amazon\\Exceptions\\NotFoundExceptions\\CustomerNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T11:40:48.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T11:40:48.7Z"
             },
             {
               "$type": "Document",
@@ -249,8 +239,7 @@
               "RelativeToolTip": "Amazon\\Exceptions\\NotFoundExceptions\\DepartmentNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:01:48.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T15:01:48.968Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "RelativeToolTip": "Amazon\\Models\\Customer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T11:35:52.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T11:35:52.68Z"
             },
             {
               "$type": "Document",
