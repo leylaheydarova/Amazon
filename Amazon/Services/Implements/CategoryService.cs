@@ -1,20 +1,21 @@
-﻿using Amazon.Exceptions.NotFoundExceptions;
+﻿using Amazon.DTOs.Category;
+using Amazon.Exceptions.NotFoundExceptions;
 using Amazon.Models;
 using Amazon.Services.Interfaces;
 
 namespace Amazon.Services.Implements
 {
-    public class CategoryService : ICategoryService
+    public class CategoryService : IGenericService<CategoryCreateDto>
     {
         private List<Category> _categories = new List<Category>();
 
-        public void Create(int id, string name, int departmentId)
+        public void Create(CategoryCreateDto dto)
         {
             var category = new Category()
             {
-                Id = id,
-                Name = name,
-                DepartmentId = departmentId
+                Id = dto.Id,
+                Name = dto.Name,
+                DepartmentId = dto.DepartmentId
             };
             _categories.Add(category);
             Console.WriteLine("Category was created successfully!");

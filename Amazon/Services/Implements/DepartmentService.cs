@@ -1,18 +1,19 @@
-﻿using Amazon.Exceptions.NotFoundExceptions;
+﻿using Amazon.DTOs.Department;
+using Amazon.Exceptions.NotFoundExceptions;
 using Amazon.Models;
 using Amazon.Services.Interfaces;
 
 namespace Amazon.Services.Implements
 {
-    public class DepartmentService : IDepartmentService
+    public class DepartmentService : IGenericService<DepartmentCreateDto>
     {
         private List<Department> _departments = new List<Department>(); //muveqqeti yaddasdir.
-        public void Create(int id, string name)
+        public void Create(DepartmentCreateDto dto)
         {
             var department = new Department()
             {
-                Id = id,
-                Name = name
+                Id = dto.Id,
+                Name = dto.Name
             };
             _departments.Add(department);
         }

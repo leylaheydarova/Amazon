@@ -1,10 +1,12 @@
-﻿using Amazon.DTOs.Product;
+﻿
+
+using Amazon.DTOs.Customer;
 
 namespace Amazon.Services.Interfaces
 {
-    public interface IProductService
+    public interface IGenericService<T> where T : class
     {
-        void Create(ProductCreateDto dto);
+        void Create(T dto);
         void Delete(int id);
         void GetAll();
         void GetById(int id);

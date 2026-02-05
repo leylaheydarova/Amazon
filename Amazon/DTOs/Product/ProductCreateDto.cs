@@ -1,6 +1,6 @@
 ﻿namespace Amazon.DTOs.Product
 {
-    public record ProductCreateDto
+    public class ProductCreateDto
     {
         public int Id { get; set; }
         public string Name { get; set; }
